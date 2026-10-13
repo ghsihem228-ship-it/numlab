@@ -57,4 +57,5 @@ The REST API table will be documented when endpoints are implemented.
 The intended deployment is FastAPI on Render and React/Vite on Vercel,
 without a database or paid APIs; free-tier quotas and availability apply.
 
-## (LICENSE).numlab-5xbgb64uewfqgymsgeajdp
+## 
+numlab-5xbgb64uewfqgymsgeajdp
